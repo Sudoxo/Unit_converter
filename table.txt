@@ -1,6 +1,4 @@
 1 m = 100 cm
-1 cm = 10 a
-1 cm = 20 b
 1 cm = 0.393701 in
 1 in = 0.0833333 ft
 1 min = 60 sec
